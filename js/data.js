@@ -14,7 +14,7 @@ export const data = {
             en prijzen van GPU's moet dat wachten
             tot later.`,
     
-            `De broncode voor deze webpagina en eental andere projecten zijn terug te vinden op <a
+            `<a href="https://github.com/koen-schouten/curriculum-vitae-koen/tree/master">De broncode voor deze webpagina</a> en eental andere projecten zijn terug te vinden op <a
             href="https://github.com/koen-schouten">mijn Github pagina.</a>`
         ]
     },
@@ -70,12 +70,12 @@ export const data = {
                     {
                         skillName: "Nederlands",
                         proficiency: "Expert",
-                        proficiencyDescription: "Moedertaal."
+                        proficiencyDescription: "Mijn moedertaal. Al zeker 30 jaar ervaring."
                     },
                     {
                         skillName: "Engels",
                         proficiency: "Expert",
-                        proficiencyDescription: "Geleerd."
+                        proficiencyDescription: "Al zeker 20 jaar ervaring. Engels vormt geen enkel probleem en kan met gemak wetenschappelijk artikel in het engels lezen."
                     }
                 ]
             },
@@ -85,33 +85,33 @@ export const data = {
                 skills : [
                     {
                         skillName: "Python",
-                        proficiency: "Expert",
-                        proficiencyDescription: "Moedertaal."
+                        proficiency: "Vergevorderd",
+                        proficiencyDescription: "Mijn eerste programmeertaal. Maak al meer dan 10 jaar gebruik van deze taal."
                     },
                     {
                         skillName: "Javascript",
-                        proficiency: "Expert",
-                        proficiencyDescription: "Geleerd."
+                        proficiency: "Vergevorderd",
+                        proficiencyDescription: "Mijn tweede programmeertaal. Maak al meer dan 5 jaar gebruik van deze taal."
                     },
                     {
                         skillName: "Java",
-                        proficiency: "Expert",
-                        proficiencyDescription: "Moedertaal."
+                        proficiency: "Beginner",
+                        proficiencyDescription: "Vrijwel alleen gebruikt in universitaire cursussen."
                     },
                     {
                         skillName: "C#",
-                        proficiency: "Expert",
-                        proficiencyDescription: "Geleerd."
+                        proficiency: "Beginner",
+                        proficiencyDescription: "Heb C# gebruikt voor het maken van een desktop applicatie met WPF GUI framework of Unity."
                     },
                     {
                         skillName: "C++",
-                        proficiency: "Expert",
-                        proficiencyDescription: "Moedertaal."
+                        proficiency: "Beginner",
+                        proficiencyDescription: "Gebruik C++ voor het programmeren van microcontrollers. Dit zijn vaak kleinere applicaties."
                     },
                     {
                         skillName: "SQL",
-                        proficiency: "Expert",
-                        proficiencyDescription: "Geleerd."
+                        proficiency: "Gevordered",
+                        proficiencyDescription: "Ben bekend met hoe databases werken maar maak over het algemeen gebruik van ORM's waardoor ik zelden SQL-queries schrijf. Als ik een sql-query moet schrijven moet ik eerst een boek raadplegen." 
                     }
                 ]
             },
@@ -121,23 +121,18 @@ export const data = {
                 skills : [
                     {
                         skillName: "Django",
-                        proficiency: "Expert",
-                        proficiencyDescription: "Moedertaal."
+                        proficiency: "Gevordered",
+                        proficiencyDescription: "Eerste grote webapplicatie Framework waar ik bekend mee ben. Ik ben bekend met de structuur van Django projecten maar moet wel de documentatie bij de hand hebben"
                     },
                     {
                         skillName: "Flask",
-                        proficiency: "Expert",
-                        proficiencyDescription: "Geleerd."
+                        proficiency: "Gevordered",
+                        proficiencyDescription: "Ik ken Flask bijna net zolang als Django. Ik gebruik het voornamelijk voor kleinere projecten."
                     },
                     {
                         skillName: "Vue.js",
-                        proficiency: "Expert",
-                        proficiencyDescription: "Moedertaal."
-                    },
-                    {
-                        skillName: "Numpy",
-                        proficiency: "Expert",
-                        proficiencyDescription: "Geleerd."
+                        proficiency: "Beginner",
+                        proficiencyDescription: "Kan er mee uit de voeten maar moet wel toegang hebben tot de documentatie."
                     }
                 ]
             },
@@ -147,28 +142,28 @@ export const data = {
                 skills : [
                     {
                         skillName: "Microsoft Office",
-                        proficiency: "Expert",
-                        proficiencyDescription: "Moedertaal."
+                        proficiency: "Gevorderd",
+                        proficiencyDescription: "Ik ben bekend met Word en Excel. Maar waarom zou ik hier gebruik van maken als je veel krachtigere tools tot je beschikking hebt?"
                     },
                     {
                         skillName: "Windows",
-                        proficiency: "Expert",
-                        proficiencyDescription: "Geleerd."
+                        proficiency: "Gevorderd",
+                        proficiencyDescription: "Maak dagelijks gebruik van een windows pc."
                     },
                     {
                         skillName: "Linux",
-                        proficiency: "Expert",
-                        proficiencyDescription: "Moedertaal."
+                        proficiency: "Gevorderd",
+                        proficiencyDescription: "Ik heb thuis een server/homelab die linux draait. Ik ben bekend met de Linux command line."
                     },
                     {
                         skillName: "Docker",
-                        proficiency: "Expert",
-                        proficiencyDescription: "Geleerd."
+                        proficiency: "Beginner",
+                        proficiencyDescription: "Ik gebruik Docker op mijn server/homelab. Iedere applicatie een eigen container!"
                     },
                     {
                         skillName: "Git",
-                        proficiency: "Expert",
-                        proficiencyDescription: "Geleerd."
+                        proficiency: "Beginner",
+                        proficiencyDescription: "Ik ben bekend met de basiscommando's voor git maar maak meestal gebruik van een GUI. Ik gebruik Git en Github voornamelijk als backup systeem voor mijn eigen projecten."
                     }
                 ]
             },

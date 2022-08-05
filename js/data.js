@@ -85,32 +85,32 @@ export const data = {
                 skills : [
                     {
                         skillName: "Python",
-                        proficiency: "Vergevorderd",
-                        proficiencyDescription: "Mijn eerste programmeertaal. Maak al meer dan 10 jaar gebruik van deze taal."
+                        proficiency: "Ervaren",
+                        proficiencyDescription: "Maak al meer dan 10 jaar gebruik van deze programmeertaal."
                     },
                     {
                         skillName: "Javascript",
-                        proficiency: "Vergevorderd",
-                        proficiencyDescription: "Mijn tweede programmeertaal. Maak al meer dan 5 jaar gebruik van deze taal."
+                        proficiency: "Ervaren",
+                        proficiencyDescription: "Maak al meer dan 5 jaar gebruik van deze taal."
                     },
                     {
                         skillName: "Java",
-                        proficiency: "Beginner",
-                        proficiencyDescription: "Vrijwel alleen gebruikt in universitaire cursussen."
+                        proficiency: "zelfredzaam",
+                        proficiencyDescription: "Vrijwel alleen gebruikt in universitaire cursussen. Ik ken niet alle ins en outs van deze taal maar kan door raadpleging van internet uit de voeten met deze taal"
                     },
                     {
                         skillName: "C#",
-                        proficiency: "Beginner",
-                        proficiencyDescription: "Heb C# gebruikt voor het maken van een desktop applicatie met WPF GUI framework of Unity."
+                        proficiency: "Zelfredzaam",
+                        proficiencyDescription: "Heb C# gebruikt voor het maken van een desktop applicatie met WPF GUI framework of Unity. Ik ken niet alle ins en outs van deze taal maar omdat deze taal lijkt op Java kan ik door raadpleging van internet uit de voeten met deze taal."
                     },
                     {
                         skillName: "C++",
-                        proficiency: "Beginner",
-                        proficiencyDescription: "Gebruik C++ voor het programmeren van microcontrollers. Dit zijn vaak kleinere applicaties."
+                        proficiency: "Zelfredzaam",
+                        proficiencyDescription: "Gebruik C++ voor het programmeren van microcontrollers. Hierdoor geen ervaring met echt grote programma's."
                     },
                     {
                         skillName: "SQL",
-                        proficiency: "Gevordered",
+                        proficiency: "Beginner",
                         proficiencyDescription: "Ben bekend met hoe databases werken maar maak over het algemeen gebruik van ORM's waardoor ik zelden SQL-queries schrijf. Als ik een sql-query moet schrijven moet ik eerst een boek raadplegen." 
                     }
                 ]
@@ -121,17 +121,17 @@ export const data = {
                 skills : [
                     {
                         skillName: "Django",
-                        proficiency: "Gevordered",
+                        proficiency: "Ervaren",
                         proficiencyDescription: "Eerste grote webapplicatie Framework waar ik bekend mee ben. Ik ben bekend met de structuur van Django projecten maar moet wel de documentatie bij de hand hebben"
                     },
                     {
                         skillName: "Flask",
-                        proficiency: "Gevordered",
+                        proficiency: "Ervaren",
                         proficiencyDescription: "Ik ken Flask bijna net zolang als Django. Ik gebruik het voornamelijk voor kleinere projecten."
                     },
                     {
                         skillName: "Vue.js",
-                        proficiency: "Beginner",
+                        proficiency: "Zelfredzaam",
                         proficiencyDescription: "Kan er mee uit de voeten maar moet wel toegang hebben tot de documentatie."
                     }
                 ]
@@ -142,17 +142,17 @@ export const data = {
                 skills : [
                     {
                         skillName: "Microsoft Office",
-                        proficiency: "Gevorderd",
+                        proficiency: "Ervaren",
                         proficiencyDescription: "Ik ben bekend met Word en Excel. Maar waarom zou ik hier gebruik van maken als je veel krachtigere tools tot je beschikking hebt?"
                     },
                     {
                         skillName: "Windows",
-                        proficiency: "Gevorderd",
+                        proficiency: "Zeer ervaren",
                         proficiencyDescription: "Maak dagelijks gebruik van een windows pc."
                     },
                     {
                         skillName: "Linux",
-                        proficiency: "Gevorderd",
+                        proficiency: "Ervaren",
                         proficiencyDescription: "Ik heb thuis een server/homelab die linux draait. Ik ben bekend met de Linux command line."
                     },
                     {

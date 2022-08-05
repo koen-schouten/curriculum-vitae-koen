@@ -69,12 +69,12 @@ export const data = {
                 skills : [
                     {
                         skillName: "Nederlands",
-                        proficiency: "Expert",
+                        proficiency: "Moedertaal",
                         proficiencyDescription: "Mijn moedertaal. Al zeker 30 jaar ervaring."
                     },
                     {
                         skillName: "Engels",
-                        proficiency: "Expert",
+                        proficiency: "Vloeiend",
                         proficiencyDescription: "Al zeker 20 jaar ervaring. Engels vormt geen enkel probleem en kan met gemak wetenschappelijk artikel in het engels lezen."
                     }
                 ]

@@ -90,31 +90,31 @@ section.personalia{
 }
 
 section.about-me{
-    animation: fadeInAnimation ease 3s;
+    animation: fadeInAnimation ease 2s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }
 
 section.education{
-    animation: fadeInAnimation ease 4s;
+    animation: fadeInAnimation ease 2s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }
 
 section.work{
-    animation: fadeInAnimation ease 5s;
+    animation: fadeInAnimation ease 2s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }
 
 section.skills{
-    animation: fadeInAnimation ease 6s;
+    animation: fadeInAnimation ease 2s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }
 
 section.certificates{
-    animation: fadeInAnimation ease 6s;
+    animation: fadeInAnimation ease 2s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }

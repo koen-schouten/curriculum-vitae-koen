@@ -9,7 +9,7 @@ export const data = {
             `Ik heb ervaring met het maken van websites met python als backend (Django/Flask) en javascript
             als frontend taal (Vue.js).
             Verder ben ik een grote datahoarder. Ik heb hierdoor ervaring met het maken van webscrapers en
-            ben altijd opzoek naar open API's.,
+            ben altijd opzoek naar open API's.,`
     
             `<a href="https://github.com/koen-schouten/curriculum-vitae-koen/tree/master">De broncode voor deze webpagina</a> en eental andere projecten zijn terug te vinden op <a
             href="https://github.com/koen-schouten">mijn Github pagina.</a>`

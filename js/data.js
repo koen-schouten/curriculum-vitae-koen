@@ -51,7 +51,7 @@ export const data = {
         title: "Werk",
         occupations: [
             {
-                timePeriod: "2000 - 2008",
+                timePeriod: "2010 - 2022",
                 company: "PostNL",
                 description: "Werkzaam als postbode bij PostNL."
             }
